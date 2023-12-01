@@ -1,6 +1,6 @@
 # Reference: https://squidfunk.github.io/mkdocs-material/reference/
-site_name: SANS HHC Write-Up
-site_author: Insert Author name
+site_name: SANS HHC Write-Up - 2023
+site_author: Oscar De La Rosa
 theme:
   icon:
     # Material for MkDocs bundles several icon sets:
@@ -100,13 +100,19 @@ nav:
 # The 'nav' section defines the content of the sidebar navigation.
 - Welcome: 'index.md'
 - Objectives:
-  - Section 1:
-    - Objective 1: 'objectives/o1.md'
-  - Section 2:
-    - Objective 2: 'objectives/o2.md'
-    - Objective 3: 'objectives/o3.md'
-  - Section 3:
-    - Objective 4: 'objectives/o4.md'
-    - Objective 5: 'objectives/o5.md'
+  - Section 01:
+    - Objective 01: 'objectives/o01.md'
+  - Section 02:
+    - Objective 02: 'objectives/o02.md'
+    - Objective 03: 'objectives/o03.md'
+  - Section 03:
+    - Objective 04: 'objectives/o04.md'
+    - Objective 05: 'objectives/o05.md'
+  - Section 04:
+    - Objective 06: 'objectives/o06.md'
+    - Objective 07: 'objectives/o07.md'
+    - Objective 08: 'objectives/o08.md'
+    - Objective 09: 'objectives/o09.md'
+    - Objective 10: 'objectives/o10.md'
 - Extras:
   - Easter Eggs: 'easter_eggs.md'
